@@ -1,3 +1,4 @@
+https://github.com/microsoft/vscode-jupyter/issues/8670
 # Jupyter Extension for Visual Studio Code
 
 A [Visual Studio Code](https://code.visualstudio.com/) [extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) that provides basic notebook support for [language kernels](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels) that are supported in [Jupyter Notebooks](https://jupyter.org/) today. Many language kernels will work with no modification. To enable advanced features, modifications may be needed in the VS Code language extensions.
