@@ -1,3 +1,7 @@
+#Docker Desktop for apple siliconをver4.0以下にダウングレードしてみる案
+#Docker Desktop for apple silicon ver4.1以上でJupyterLab無反応の事象が起きているらしい
+https://docs.docker.com/desktop/mac/release-notes/
+
 https://github.com/microsoft/vscode-jupyter/issues/8670
 # Jupyter Extension for Visual Studio Code
 
